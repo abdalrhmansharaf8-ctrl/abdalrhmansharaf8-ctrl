@@ -1,53 +1,105 @@
-<h1 align="center">Hi 👋, I'm Abdulrhman Al Houssiny</h1>
-<h3 align="center">Frontend Developer | Game Developer | Tech Enthusiast</h3>
+<h1 align="center">⚡ Abdulrhman Al Houssiny ⚡</h1>
 
----
-
-## 🚀 About Me
-- 💻 I’m a passionate developer from Egypt 🇪🇬  
-- 🎮 I build games using **Godot & Unity**  
-- 🌐 I create web interfaces using **HTML, CSS**  
-- 🧠 I code in **Python & C#**  
-- 🛠️ I use **VS Code** as my main editor  
-- 🔥 Always learning and improving my skills  
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
-
----
-
-## ⚙️ Tools I Use
-- VS Code  
-- Git & GitHub  
-- Figma  
-- Photoshop  
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Dominate.;Game+Developer+🎮;Frontend+Developer+💻;No+limits+only+levels🔥&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
 </p>
 
 ---
 
-## 📫 Contact Me
-- Telegram: [Your Username](https://t.me/your_username)
+## ⚔️ Who Am I
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
+
+```cpp id="m1h9rw"
+class Abdulrhman {
+  string role = "Game Dev | Frontend";
+  string power = "Building cool stuff 🔥";
+
+  void play() {
+    cout << "No bugs... only features 😎";
+  }
+};
+```
 
 ---
 
-## ⚡ Fun Fact
-> I love coding and building cool stuff 😎
+## 🧠 Core Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,cs,python,unity,git,vscode&theme=dark" />
+</p>
+
+---
+
+## 🎮 Skill Tree
+
+```id="6k9r7l"
+HTML/CSS   ██████████  [MAX ⚡]
+C#         ████████░░  [HIGH 🔥]
+Unity      ████████░░  [HIGH 🎮]
+Python     ███████░░░  [MEDIUM 🧠]
+Godot      ██████░░░░  [GROWING 🚀]
+```
+
+---
+
+## 🚀 Current State
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+</p>
+
+```bash id="39r8j3"
+> loading skills...
+> coding mode: ON 🔥
+> energy: 100%
+> next level: UNLOCKING...
+```
+
+---
+
+## 🎯 Philosophy
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Grind.+Code.+Repeat.;Stay+Hungry+🔥;&center=true&width=400&height=40">
+</p>
+
+> "Levels don't come to you. You grind for them."
+
+---
+
+## 📡 Contact Me
+
+<p align="center">
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://t.me/your_username">
+    <img src="https://img.shields.io/badge/Telegram-Message-blue?style=for-the-badge&logo=telegram">
+  </a>
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge">
+</p>
+
+---
+
+## 💥 Final Boss Quote
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" width="250"/>
+</p>
+
+> "I don’t wait for opportunities… I build them." ⚡
