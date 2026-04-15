@@ -1,4 +1,3 @@
-
 <h1 align="center">Abdulrhman Al Houssiny</h1>
 
 <p align="center">
@@ -17,7 +16,7 @@ I enjoy learning new technologies and improving my coding skills.
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,cs,python,godot,unity,vscode,git&theme=dark" />
+  <img src="https://skillicons.dev" />
 </p>
 
 ---
