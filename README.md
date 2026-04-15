@@ -16,7 +16,7 @@ I enjoy learning new technologies and improving my coding skills.
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=html,css,cs,python,godot,unity,vscode,git&theme=dark" />
 </p>
 
 ---
